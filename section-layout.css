@@ -1,0 +1,58 @@
+.w3-card-4,form{
+	background-color: #f0f0f5;
+	border-radius: 5px;
+	width: 60%;
+	margin: auto;
+	padding: 8px;
+	margin-top: 60px;
+	margin-bottom: 20px;
+}
+#slogan{
+	border-radius: 4px;
+	width: 90%;
+	position: relative;
+	background-image: url("images/red.jpg");
+	
+	margin: auto;
+	text-align: center;
+	 height: 480px;
+	 
+	color: white;
+	
+	animation: img 5s infinite;
+
+
+}
+ @keyframes img{
+ 	0%{background-image: url("images/red.jpg");}
+ 	50%{background-image: url("images/blue.jpg");}
+ 	100%{background-image: url("images/white.jpg");}
+ }
+ #slideshow{
+ 	height: 50px;
+ 	border-radius: 5px;
+ 	line-height: 470px;
+	color: #008000;
+	font-size: 25px;
+	text-shadow: 1px 1px 1px;
+  
+ }
+ .intro{
+ 	color: #008000;
+ 	text-shadow: 1px 1px 1px;
+ 	text-align: center;
+ 	font-size: 40px;
+ }
+	
+footer{
+	background-color: #008000;
+	font-size: 16px;
+    color: white;
+	text-align: center;
+
+
+}
+ 
+
+
+ 

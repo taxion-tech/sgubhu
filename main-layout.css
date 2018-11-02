@@ -1,0 +1,48 @@
+
+body{
+	 background-color: #e6ffe6;
+}
+header{
+
+	 background-color: #008000;
+	height: 60px;
+	text-align: center;
+	width: 100%;
+	 margin-bottom: 10px;
+	 
+}
+ a{
+ 	text-decoration: none;
+ 	line-height: 60px;
+ 	 text-align: center;
+ 	 padding-left: 5px;
+ 	 padding-right: 5px;
+ 	 border-radius: 3px;
+ 	 color: white;
+ 	  
+ }
+ a:hover{
+ 	background-color: white;
+ 	color: #008000;
+ 	 
+
+ }
+#brand{
+	 float: left;
+	font-size: 25px;
+	display: block;
+	font-weight: bolder;
+	font-family: sans-serif;
+	background-color: white;
+	color: #008000;
+}
+ 
+.right{
+	 display: inline-flex;
+	float: right;
+	font-size: 16px;
+	padding-right: 30px;
+	padding-left: 30px; 
+	color: white;
+}
+ 
