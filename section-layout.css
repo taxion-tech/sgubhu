@@ -24,9 +24,9 @@
 
 }
  @keyframes img{
- 	0%{background-image: url("images/red.jpg");}
- 	50%{background-image: url("images/blue.jpg");}
- 	100%{background-image: url("images/white.jpg");}
+ 	0%{background-image: url("red.jpg");}
+ 	50%{background-image: url("blue.jpg");}
+ 	100%{background-image: url("white.jpg");}
  }
  #slideshow{
  	height: 50px;
